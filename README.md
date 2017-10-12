@@ -3,7 +3,7 @@
 
 ## Write some automation to do the following:
 
-1. Create a new `t2.micro` Amazon EC2 instance using the provided credentials and keypair.
+1. Create a new `t2.micro` Amazon EC2 instance in `us-east-1` using the provided credentials and keypair (named `DevOpsEval`).
 2. Upload the tarball found at: $URL
 3. Extract the tarball's contents somewhere onto the system (use your best judgment as to where this should live).
 4. Configure the service to run on system startup.
