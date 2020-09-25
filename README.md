@@ -20,3 +20,5 @@
 
 - Tarball of a local Git repository containing your script.  A commit history that shows your progress as you go is strongly preferred.
 - The public IP address of the cloud instance with the service up and responding on port 80 that is also reachable via SSH using the provided keypair.  We should be able to visit this IP in our browsers and see the service we sent you running.
+
+Please email Varun (varun@performline.com) with the results or if you have any questions.
