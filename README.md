@@ -18,7 +18,7 @@ Simple Evaluation Task for DevOps / Infrastructure / Cloud Engineers
 
 ## Extra credit
 
-- The service is publicly reachable on TCP port 80
+- The service is publicly reachable on TCP port 80.
 
 ## Deliverables
 
