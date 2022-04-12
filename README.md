@@ -3,7 +3,7 @@ Simple Evaluation Task for DevOps / Infrastructure / Cloud Engineers
 
 ## Write some automation to do the following:
 
-1. Create a new `t2.micro` Amazon EC2 instance in `us-east-1` using the provided credentials and keypair.
+1. Create a new `t2.micro` Amazon EC2 instance in the region specified using provided credentials and keypair.
 2. Upload the binary found [here](https://github.com/PerformLine/DevOpsEval/blob/master/bin/eval-server.linux-x86_64?raw=true).
 3. Place the binary somewhere on the system (use your best judgment as to where this should live).
 4. Configure the binary to run on system startup.
